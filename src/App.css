@@ -1,0 +1,43 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  padding: 15px;
+  color: white;
+  background-size: cover;
+  font-family: 'DS-Digital', sans-serif;                                          
+}
+
+.bg1 {
+  background-image: url(/images/universe1.jpg);
+}
+
+.bg2 {
+  background-image: url(/images/universe2.jpg);
+}
+
+.bg3 {
+  background-image: url(/images/universe3.jpg);
+}
+
+.bg4 {
+  background-image: url(/images/universe4.jpg);
+}
+
+/* .planet1 {
+  url(/images/planet1.svg);
+} */
+
+/* .planet2 {
+  background-image: url(/images/planet2.svg);
+}
+
+.planet3 {
+  background-image: url(/images/planet3.svg);
+}
+
+.planet4 {
+  background-image: url(/images/planet4.svg);
+} */
